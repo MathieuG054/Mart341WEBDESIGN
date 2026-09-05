@@ -1,0 +1,1 @@
+Hello! This website is still looking out of sorts. My intention is to have a brief thumbnail of the artwork I've created and then allow the User to click the image to view the full and it's description! I still need to rework a bit of it.
