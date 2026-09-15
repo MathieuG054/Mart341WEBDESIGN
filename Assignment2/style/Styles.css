@@ -2,10 +2,10 @@ outlined-text {
     font-family: 'Times New Roman', Times, serif;
     font-size: 48px;
     font-weight: bold;
-    color: #5d3f99; /* Color inside the letters */
+    color: #5d3f99; 
     background-color: #aa60c1;
     
-    /* 2px thick black outline around the text */
+    
     -webkit-text-stroke: 2px black; 
   }
 
