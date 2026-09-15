@@ -20,7 +20,7 @@ h1 {
             text-align: center;
         }
 nav {
-background-color: CHOOSE #aa60c1;
+background-color: #aa60c1;
 text-align: center;
 padding: 10px;
 }
@@ -38,13 +38,13 @@ margin:0 10px;
 background-color: #aa60c1;
 }
 nav a{
-color: CHOOSE #ffffff;
+color:  #ffffff;
 text-decoration:none;
 padding: 8px 12px;
 background-color: #aa60c1;
 }
 nav a:hover{
-background-color: CHOOSE #aa60c1;
+background-color:  #aa60c1;
 }
 
  .art {
@@ -84,15 +84,15 @@ background-color: CHOOSE #aa60c1;
             
         }
 footer {
-background-color: CHOOSE #5d3f99;
-color: CHOOSE #ffffff ;
+background-color:  #5d3f99;
+color:  #ffffff ;
 text-align: center;
 padding: 15px;
 margin-top: 40px;
 }
 header {
-background-color: CHOOSE #5d3f99;
-color: CHOOSE #ffffff ;
+background-color:  #5d3f99;
+color:  #ffffff ;
 text-align: center;
 padding: 15px;
 margin-top: 40px;
