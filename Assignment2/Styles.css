@@ -3,6 +3,7 @@ outlined-text {
     font-size: 48px;
     font-weight: bold;
     color: white; /* Color inside the letters */
+    background-color: #aa60c1;
     
     /* 2px thick black outline around the text */
     -webkit-text-stroke: 2px black; 
@@ -28,16 +29,19 @@ nav ul {
 list-style-type: none;
 margin: 0;
 padding: 0;
+background-color: #aa60c1;
 }
 
 nav li {
 display: inline-block;
 margin:0 10px;
+background-color: #aa60c1;
 }
 nav a{
 color: CHOOSE #ffffff;
 text-decoration:none;
 padding: 8px 12px;
+background-color: #aa60c1;
 }
 nav a:hover{
 background-color: CHOOSE #aa60c1;
@@ -80,13 +84,19 @@ background-color: CHOOSE #aa60c1;
             
         }
 footer {
-background-color: CHOOSE #aa60c1;
+background-color: CHOOSE #5d3f99;
 color: CHOOSE #ffffff ;
 text-align: center;
 padding: 15px;
 margin-top: 40px;
 }
-
+header {
+background-color: CHOOSE #5d3f99;
+color: CHOOSE #ffffff ;
+text-align: center;
+padding: 15px;
+margin-top: 40px;
+}
    
     #title {
         color: #ffffff;
