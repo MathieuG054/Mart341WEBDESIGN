@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Mathieu's Art Gallery</title> 
+    <link rel="stylesheet" href="style/styles.css">
+
+
+</head>
+
+
+<body>
+
+    <h1>Mathieu's Art Gallery</h1>
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="info.html">Info</a></li>
+</ul>
+</nav>
+
+    <div class="art">
+
+    <div class="artwork" style="border: 2px solid white; padding: 15px;">
+
+            <img
+                src="Images/genesect thumbnail.png" style="border: 3px solid #ffffff;"
+                onclick="showImage(
+                    
+                    'Images/genesect.png',
+                    'Here is an image I made to challenge myself in 2025. I wanted to see how much I could improve my ability to color and render my images, while also using it as a stepping stone for printing my work physically!'
+                )"
+            >
+
+            <h2>Genesect Illustration Rare Art</h2>
+
+        </div>
+        <div class="artwork" style="border: 2px solid white; padding: 15px;"> 
+
+            <img
+                src="Images/ergo sum thumbnail.png" style="border: 3px solid #ffffff;"
+                onclick="showImage(
+                    'Images/ergo sum.png',
+                    'I made this image in 2024 to celebrate and commemorate the completion of Destiny 2s Final Shape expansion. I felt particularly connected with the world of this game, and wanted to express my love for the game through my artwork.'
+                )"
+            >
+
+            <h2>Ergo Sum</h2>
+
+        </div>
+        <div class="artwork" style="border: 2px solid white; padding: 15px;">
+
+            <img
+                src="Images/blue-eyes thumbnail.png" style="border: 3px solid #ffffff;"
+                onclick="showImage(
+                    'Images/blue-eyes.png',
+                    'I made this image in 2025 to challenge myself. I chose a screenshot from Yugiohs anime, and decided to try redrawing it in my own style. I believe I was able to make it look much more interesting!'
+                )"
+            >
+
+            <h2>Blue-Eyes</h2>
+
+        </div>
+
+    </div>
+    <div id="popup" onclick="closeImage()">
+
+        <img id="bigImage">
+
+        <p id="caption"></p>
+
+    </div>
+
+   <script>
+
+        function showImage(image, caption) {
+
+            document.getElementById("popup").style.display = "block";
+
+            document.getElementById("bigImage").src = image;
+
+            document.getElementById("caption").innerHTML = caption;
+
+        }
+
+
+        function closeImage() {
+
+            document.getElementById("popup").style.display = "none";
+
+        }
+
+    </script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,1 @@
+I am feeling slightly overwhelmed with the skills we have practiced so far. I feel partially uncomfortable using these techniques, and believe I need more practice. Espescially regarding formatting the styles and making the website LOOK better. 
