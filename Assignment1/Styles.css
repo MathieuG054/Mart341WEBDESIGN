@@ -19,7 +19,7 @@ h1 {
             text-align: center;
         }
 nav {
-background-color: CHOOSE COLOR;
+background-color: CHOOSE #aa60c1;
 text-align: center;
 padding: 10px;
 }
@@ -35,12 +35,12 @@ display: inline-block;
 margin:0 10px;
 }
 nav a{
-color: CHOOSE COLOR;
+color: CHOOSE #ffffff;
 text-decoration:none;
 padding: 8px 12px;
 }
 nav a:hover{
-hackground-color: CHOOSE COLOR;
+background-color: CHOOSE #aa60c1;
 }
 
  .art {
@@ -80,8 +80,8 @@ hackground-color: CHOOSE COLOR;
             
         }
 footer {
-background-color: CHOOSE COLOR;
-color: CHOOSE COLOR;
+background-color: CHOOSE #aa60c1;
+color: CHOOSE #ffffff ;
 text-align: center;
 padding: 15px;
 margin-top: 40px;
