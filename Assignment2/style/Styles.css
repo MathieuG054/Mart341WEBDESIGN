@@ -2,7 +2,7 @@ outlined-text {
     font-family: 'Times New Roman', Times, serif;
     font-size: 48px;
     font-weight: bold;
-    color: white; /* Color inside the letters */
+    color: #5d3f99; /* Color inside the letters */
     background-color: #aa60c1;
     
     /* 2px thick black outline around the text */
@@ -38,7 +38,7 @@ margin:0 10px;
 background-color: #aa60c1;
 }
 nav a{
-color:  #ffffff;
+color:  #5d3f99;
 text-decoration:none;
 padding: 8px 12px;
 background-color: #aa60c1;
@@ -85,19 +85,19 @@ background-color:  #aa60c1;
         }
 footer {
 background-color:  #5d3f99;
-color:  #ffffff ;
+color:  #5d3f99 ;
 text-align: center;
 padding: 15px;
 margin-top: 40px;
 }
 header {
 background-color:  #5d3f99;
-color:  #ffffff ;
+color:  #5d3f99 ;
 text-align: center;
 padding: 15px;
 margin-top: 40px;
 }
    
     #title {
-        color: #ffffff;
+        color: #5d3f99;
     }
