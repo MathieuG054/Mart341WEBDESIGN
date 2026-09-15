@@ -1,5 +1,5 @@
 outlined-text {
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 48px;
     font-weight: bold;
     color: white; /* Color inside the letters */
@@ -9,7 +9,7 @@ outlined-text {
   }
 
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Times New Roman', Times, serif, sans-serif;
             margin: 30px;
             background-color: #aa60c1;
         }
