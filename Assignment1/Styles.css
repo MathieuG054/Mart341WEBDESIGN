@@ -1,4 +1,4 @@
-  .outlined-text {
+outlined-text {
     font-family: sans-serif;
     font-size: 48px;
     font-weight: bold;
@@ -26,8 +26,8 @@ padding: 10px;
 
 nav ul {
 list-style-type: none;
-margin 0;
-padding 0;
+margin: 0;
+padding: 0;
 }
 
 nav li {
@@ -39,8 +39,9 @@ color: CHOOSE COLOR;
 text-decoration:none;
 padding: 8px 12px;
 }
-nav a: hover{
+nav a:hover{
 hackground-color: CHOOSE COLOR;
+}
 
  .art {
             display: flex;
@@ -84,6 +85,7 @@ color: CHOOSE COLOR;
 text-align: center;
 padding: 15px;
 margin-top: 40px;
+}
 
    
     #title {
