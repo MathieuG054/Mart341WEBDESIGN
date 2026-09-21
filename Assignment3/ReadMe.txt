@@ -1,0 +1,1 @@
+Using components kept the way I had things organized the same, as the images I want to use all serve the same purpose. I believe I would like more clarification on the CSS type of classifications and components. Overall this week I am feeling a bit more confused, however the provided code did help me slightly. 
