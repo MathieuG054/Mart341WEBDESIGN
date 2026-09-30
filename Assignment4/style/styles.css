@@ -13,7 +13,7 @@ outlined-text {
      font-family: 'Times New Roman', Times, serif, sans-serif;
     font-size: 22px;
     background-color: rgb(30, 31, 97);
-    background-image: url("../images/backgroundimage.png");
+    background-image: url("../Images/backgroundimage.png;")
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
