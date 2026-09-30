@@ -119,19 +119,16 @@ margin-top: 40px;
         color: #0f081e;
     }
     .card {
-  ...
 }
 
 .card img {
-  ...
+  
 }
-css
-/* 1. Center the heading above the table */
+
 h2 {
   text-align: center;
 }
 
-/* 2. Add structure and positioning to the table */
 table {
   position: relative;
   left: 10px;
@@ -143,14 +140,12 @@ table {
   border-radius: 4px;
 }
 
-/* 3. Style the table cells (headers and data) */
 th, td {
   padding: 12px;
   border: 1px solid #280137;
   text-align: left;
 }
 
-/* 4. Apply unique colors to the table headers */
 th {
   background-color: #b8bbff99;
   font-weight: bold;
